@@ -6,6 +6,7 @@ YouTubeのブランドアカウントに関する情報をGoogle Apps Scriptで�
 Google Apps Script上で提供されているサービスではブランドアカウントでの認証ができなかったため、代替手段として用意したスクリプトです。
 
 ## Usage(Japanese Only)
+随時追加予定
 Google Apps ScriptのIDEで、下記のライブラリ導入が必要です。([GitHub](https://github.com/googleworkspace/apps-script-oauth2))
 
 ## Reference
